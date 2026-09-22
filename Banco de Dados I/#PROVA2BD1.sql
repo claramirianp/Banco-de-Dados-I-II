@@ -1,4 +1,4 @@
--- CREATE DATABASE Cervejarias;
+ CREATE DATABASE Cervejarias;
 
 USE Cervejarias;
 
